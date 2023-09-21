@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
 
-# ⚛️ React Native: Começando do Zero
+# ⚛️ React Native: Começando do Zero 123
 
 Esse é o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
 
